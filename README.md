@@ -8,5 +8,5 @@ To track the progress:
 3. Exploring Ebay Car Sales Data
 4. The pragmatic way to choose your college major
 5. Clean and Analyse Employee Exit Survey
-6. Analyzing NYC High School Data
-7. Star Wars Survey - final
+6. Analyzing NYC High School Data - Community Champion
+7. Star Wars Survey - final - Community Champion
