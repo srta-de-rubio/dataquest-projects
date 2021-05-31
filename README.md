@@ -1,6 +1,6 @@
 # dataquest-projects
 
-This repository contains projects completed during my study at Dataquest.io as part of their course.
+This repository contains projects completed during my study at Dataquest.io as part Data Analyst path.
 
 To track the progress:
 1. Profitable iOS and Android App Profiles for an App-Developing Company
